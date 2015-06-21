@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science Toolbox first repo
+The Data Scientist’s Toolbox firs repo
